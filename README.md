@@ -30,7 +30,15 @@ The chart demonstrates that Australia has sales in all markets.
 
 <img src="images/Task_3_4.png" width="1500" height="3000">
 
-The chart demonstrates that United States is the most profitable markets by country, age group and gender.
+The chart demonstrates that United States are the most profitable markets by country, age group and gender.
 
-5. Demostrate which country are no Adults profit.
+5. Demostrate which country are no Adults(35-64) profit.
+
+<img src="images/Task_3_5.png" width="600" height="450">
+
+The chart demonstrates that France are no Adults(35-64) profit.
+
+### Task 2 Create a Pivot Table and Use the Switch function.
+
+1. Insert a Pivot Table to summarise the data by County in the rows and Products in the columns. Use Sales Volume as the value to be summarised.
 
