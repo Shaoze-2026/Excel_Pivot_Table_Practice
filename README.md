@@ -14,5 +14,11 @@ Microsoft Excel (Pivot table and Visualization)
 
 <img src="images/Task_3_1.png" width="600" height="450">
 
-2.Demonstrate which markets does Germany have customers.
+2. Demonstrate which markets does Germany have customers.
+
+<img src="images/Task_3_2.png" width="600" height="450">
+
+We can see that chart demonstrate in Adults(35-64) markets Germany have customers.
+
+3. Demonstrate what country has sales in all markets.
 
