@@ -18,7 +18,13 @@ Microsoft Excel (Pivot table and Visualization)
 
 <img src="images/Task_3_2.png" width="600" height="450">
 
-We can see that chart demonstrate in Adults(35-64) markets Germany have customers.
+The chart demonstrates that Germany attracts customers in the Adults (35–64) demographic group.
 
 3. Demonstrate what country has sales in all markets.
+
+<img src="images/Task_3_3.png" width="600" height="450">
+
+The chart demonstrates that Australia has sales in all markets.
+
+4. Demostrate what are the most profitable markets by country, age group and gender.
 
