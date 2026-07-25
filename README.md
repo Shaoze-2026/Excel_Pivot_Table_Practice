@@ -28,3 +28,9 @@ The chart demonstrates that Australia has sales in all markets.
 
 4. Demostrate what are the most profitable markets by country, age group and gender.
 
+<img src="images/Task_3_4.png" width="1500" height="3000">
+
+The chart demonstrates that United States is the most profitable markets by country, age group and gender.
+
+5. Demostrate which country are no Adults profit.
+
