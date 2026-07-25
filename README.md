@@ -48,3 +48,6 @@ A completed Pivot Table summarising sales by county and product.
 
 2. In a new column next to data, use the SWITCH function to categorise products based on Sales Volume.
 
+<img src="images/Task_3_7.png" width="600" height="450">
+
+A new column in the dataset categorising products by sales volume using the SWITCH function.
