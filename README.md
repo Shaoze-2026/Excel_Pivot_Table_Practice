@@ -51,3 +51,9 @@ A completed Pivot Table summarising sales by county and product.
 <img src="images/Task_3_7.png" width="600" height="450">
 
 A new column in the dataset categorising products by sales volume using the SWITCH function.
+
+### Task 3 Creating a Line, Column and Pie Chart
+
+1. Creating a Line Chart. This chart will display the Profit and Revenue for the years 2017, 2018, 2019, 2020 and 2021.
+
+
