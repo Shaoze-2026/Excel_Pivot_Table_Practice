@@ -56,4 +56,12 @@ A new column in the dataset categorising products by sales volume using the SWIT
 
 1. Creating a Line Chart. This chart will display the Profit and Revenue for the years 2017, 2018, 2019, 2020 and 2021.
 
+<img src="images/Task_3_8.png" width="600" height="450">
 
+2. Creating a Column Chart. This chart with an x-axis showing the country and a y-axis showing dollar amount.
+
+<img src="images/Task_3_9.png" width="600" height="450">
+
+3. Creating a Pie Chart. This chart will display each age group represented by an area on the cart representative of the revenue for that group.
+
+<img src="images/Task_3_10.png" width="600" height="450">
