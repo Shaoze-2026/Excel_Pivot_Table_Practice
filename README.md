@@ -10,4 +10,9 @@ Microsoft Excel (Pivot table and Visualization)
 ## Skills Demonstrated
 ### Task 1 Using Pivot tables to summarise, analyse, explore,present data and charts add visualisations to the data. 
 
-1. Create pivot table by resizing the column widths and centre the data focus on Year, Age Group, Customer Gender, Sub-Category and Product columns. Presenting the pivot table as a graphical chart.
+1. Create pivot table by resizing the column widths and centre the data focus on region, Age Group, Customer Gender, Sub-Category and Product columns. Presenting the visualization that sales summary with different age group and gender in different countries.
+
+<img src="images/Task_3_1.png" width="600" height="450">
+
+2.Demonstrate which markets does Germany have customers.
+
