@@ -42,3 +42,9 @@ The chart demonstrates that France are no Adults(35-64) profit.
 
 1. Insert a Pivot Table to summarise the data by County in the rows and Products in the columns. Use Sales Volume as the value to be summarised.
 
+<img src="images/Task_3_6.png" width="600" height="450">
+
+A completed Pivot Table summarising sales by county and product.
+
+2. In a new column next to data, use the SWITCH function to categorise products based on Sales Volume.
+
